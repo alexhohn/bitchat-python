@@ -1,0 +1,14 @@
+# BitChat Web UI Requirements
+
+# Core BitChat dependencies
+bleak>=0.21.1
+aioconsole>=0.6.2
+pybloom_live>=4.0.0
+
+# Web UI dependencies
+flask>=3.0.0
+flask-socketio>=5.3.6
+python-socketio>=5.11.0
+
+# Additional utilities
+python-dotenv>=1.0.0
